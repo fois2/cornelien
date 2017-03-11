@@ -1,0 +1,679 @@
+"date";"Temp.min";"Temp.max";"Duree.ensoleil";"Hauteur.precip";"10h";"13h";"16h"
+"01-01-2015";"-1.1";"6.9";"5";"0.4";"   Ensoleillé     ";"   Eclaircies     ";"   Très nuageux   "
+"02-01-2015";"2.7";"10.7";"3";"0.0";NA;"   Eclaircies     ";"   Ensoleillé   "
+"03-01-2015";"0.9";"11.0";"0";"10.9";"   Pluie et neige      ";"   Bruine     ";"   Bruine   "
+"05-01-2015";"-1.6";"3.8";"2";"0.0";NA;"   Eclaircies     ";"   Très nuageux   "
+"06-01-2015";"-1.7";"3.8";"0";"0.0";NA;NA;NA
+"07-01-2015";"-1.0";"6.7";"5";"1.2";"   Ensoleillé     ";"   Eclaircies     ";"   Très nuageux   "
+"08-01-2015";"2.6";"9.6";"0";"12.5";"   Bruine     ";"";NA
+"09-01-2015";"5.2";"14.5";"0";"0.2";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"10-01-2015";"8.4";"12.8";"0";"0.8";"   Très nuageux     ";"";NA
+"12-01-2015";"6.5";"10.3";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"13-01-2015";"8.2";"10.4";"0";"6.8";"   Bruine      ";NA;"   Eclaircies   "
+"14-01-2015";"2.7";"9.7";"3";"7.4";"   Bruine      ";NA;"   Ensoleillé   "
+"15-01-2015";"4.9";"10.6";"0";"2.6";"   Bruine     ";"   Bruine     ";"   Très nuageux   "
+"16-01-2015";"3.1";"8.3";"4";"0.0";"   Eclaircies     ";"   Ensoleillé     ";"   Eclaircies   "
+"17-01-2015";"-2.6";"5.8";"7";"0.4";"   Ensoleillé     ";"   Ensoleillé     ";"   Eclaircies   "
+"19-01-2015";"0.2";"4.9";"1";"0.2";NA;"   Très nuageux     ";"   Eclaircies   "
+"20-01-2015";"-1.8";"4.6";"6";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"21-01-2015";"-1.2";"3.0";"3";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"22-01-2015";"-2.3";"-0.1";"2";"0.0";NA;NA;NA
+"23-01-2015";"-1.4";"3.5";"4";"7.1";NA;"   Ensoleillé     ";"   Ensoleillé   "
+"24-01-2015";"-3.2";"6.4";"2";"0.6";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"26-01-2015";"4.6";"9.4";"0";"1.0";"   Bruine     ";"";NA
+"27-01-2015";"0.9";"6.6";"0";"0.2";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"28-01-2015";"4.5";"8.5";"0";"2.6";"   Très nuageux      ";NA;"   Pluies éparses   "
+"29-01-2015";"1.1";"4.2";"1";"2.4";"   Eclaircies     ";"   Très nuageux     ";"   Eclaircies   "
+"30-01-2015";"0.3";"4.2";"1";"2.8";"   Neige     ";"   Très nuageux     ";"   Très nuageux   "
+"31-01-2015";"-2.0";"3.8";"3";"3.4";"   Eclaircies     ";"";NA
+"02-02-2015";"-0.8";"3.7";"6";"0.0";"   Ensoleillé     ";"   Eclaircies     ";"   Eclaircies   "
+"03-02-2015";"-2.4";"4.5";"6";"0.2";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"04-02-2015";"-0.5";"5.9";"7";"0.4";"   Ensoleillé     ";"   Ensoleillé     ";"   Eclaircies   "
+"05-02-2015";"-3.5";"2.4";"3";"0.0";NA;"   Eclaircies     ";"   Eclaircies   "
+"06-02-2015";"-1.8";"2.0";"5";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Ensoleillé   "
+"07-02-2015";"-2.1";"5.5";"6";"0.2";"   Ensoleillé     ";"   Eclaircies     ";"   Très nuageux   "
+"09-02-2015";"-1.1";"5.2";"0";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"10-02-2015";"3.1";"6.0";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"11-02-2015";"3.2";"4.1";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"12-02-2015";"0.7";"5.8";"2";"0.0";NA;NA;"   Eclaircies   "
+"13-02-2015";"0.0";"10.6";"6";"2.2";"   Ensoleillé     ";"   Ensoleillé     ";"   Eclaircies   "
+"14-02-2015";"6.2";"9.7";"1";"0.8";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"16-02-2015";"-1.3";"4.4";"0";"1.2";"   Bancs de brouillard     ";NA;NA
+"17-02-2015";"2.8";"8.7";"2";"1.2";"   Bruine     ";"   Très nuageux     ";"   Eclaircies   "
+"18-02-2015";"-3.5";"3.7";"1";"0.0";"   Brouillard givrant     ";"";NA
+"19-02-2015";"0.4";"5.6";"1";"1.8";NA;"   Eclaircies     ";"   Eclaircies   "
+"20-02-2015";"3.8";"7.3";"0";"15.7";"   Très nuageux     ";"   Rares averses     ";"   Rares averses   "
+"21-02-2015";"1.0";"6.4";"3";"3.2";"   Eclaircies     ";"";NA
+"23-02-2015";"3.8";"9.9";"4";"1.4";"   Eclaircies     ";"   Très nuageux     ";"   Très nuageux   "
+"24-02-2015";"2.8";"9.9";"3";"3.2";NA;"   Eclaircies     ";"   Eclaircies   "
+"25-02-2015";"1.8";"7.9";"0";"6.9";"   Bruine     ";"   Bruine     ";"   Bruine   "
+"26-02-2015";"3.5";"9.9";"0";"9.0";"   Bruine     ";"   Bruine     ";"   Bruine   "
+"27-02-2015";"2.2";"8.4";"7";"0.0";"   Ensoleillé     ";"   Eclaircies     ";"   Ensoleillé   "
+"28-02-2015";"-0.4";"9.8";"4";"2.8";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"02-03-2015";"3.7";"8.4";"6";"1.0";"   Ensoleillé     ";"   Eclaircies     ";"   Eclaircies   "
+"03-03-2015";"1.7";"8.9";"3";"3.0";"   Très nuageux      ";NA;"   Eclaircies   "
+"04-03-2015";"0.9";"9.0";"6";"0.0";"   Ensoleillé     ";"   Eclaircies     ";"   Eclaircies   "
+"05-03-2015";"-1.1";"10.8";"8";"0.0";"   Eclaircies     ";"   Ensoleillé     ";"   Eclaircies   "
+"06-03-2015";"1.3";"11.5";"4";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"07-03-2015";"2.4";"13.7";"5";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"09-03-2015";"6.0";"10.8";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"10-03-2015";"8.4";"13.0";"7";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"11-03-2015";"1.2";"12.4";"9";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"12-03-2015";"0.7";"14.7";"10";"0.0";"   Ensoleillé     ";"   Ensoleillé     ";"   Ensoleillé   "
+"13-03-2015";"2.2";"12.3";"10";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"14-03-2015";"1.9";"9.1";"7";"1.8";"   Ensoleillé     ";"   Ensoleillé     ";"   Eclaircies   "
+"16-03-2015";"2.2";"12.3";"10";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Ensoleillé   "
+"17-03-2015";"2.8";"17.4";"10";"0.0";"   Ensoleillé     ";"   Ensoleillé     ";"   Ensoleillé   "
+"18-03-2015";"5.1";"11.8";"6";"0.0";NA;NA;NA
+"19-03-2015";"5.6";"7.9";"0";"0.2";"   Bruine     ";"";NA
+"20-03-2015";"5.6";"8.3";"1";"0.0";NA;NA;NA
+"21-03-2015";"3.1";"9.0";"2";"0.6";"   Très nuageux     ";"";NA
+"23-03-2015";"-1.5";"11.2";"8";"0.0";"   Ensoleillé     ";"   Eclaircies     ";"   Eclaircies   "
+"24-03-2015";"-0.7";"10.4";"3";"17.1";"   Très nuageux     ";"   Eclaircies     ";"   Bruine   "
+"25-03-2015";"3.9";"8.1";"1";"1.5";"   Bruine     ";"";NA
+"26-03-2015";"-0.8";"8.8";"0";"2.6";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"27-03-2015";"1.6";"11.5";"9";"0.0";"   Eclaircies     ";"   Très nuageux     ";"   Eclaircies   "
+"28-03-2015";"3.1";"13.7";"0";"3.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"30-03-2015";"6.8";"11.6";"5";"1.4";"   Eclaircies     ";"   Eclaircies     ";"   Très nuageux   "
+"31-03-2015";"7.3";"14.0";"5";"2.2";"   Très nuageux     ";"   Risque de grêle     ";"   Eclaircies   "
+"01-04-2015";"2.3";"11.2";"5";"12.1";"   Eclaircies     ";"   Eclaircies     ";"   Très nuageux   "
+"02-04-2015";"6.3";"8.9";"6";"0.6";NA;"   Eclaircies     ";"   Eclaircies   "
+"03-04-2015";"1.6";"8.6";"0";"3.2";"   Bruine     ";"   Bruine     ";"   Bruine   "
+"04-04-2015";"5.6";"7.8";"1";"1.0";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"06-04-2015";"0.3";"10.0";"0";"0.0";"   Très nuageux     ";"";NA
+"07-04-2015";"-0.1";"14.7";"11";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"08-04-2015";"4.0";"14.6";"9";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"09-04-2015";"4.5";"18.9";"12";"0.2";NA;NA;NA
+"10-04-2015";"4.1";"22.1";"12";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"11-04-2015";"10.4";"14.8";"2";"0.6";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"13-04-2015";"7.4";"16.3";"4";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"14-04-2015";"7.0";"22.9";"13";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"15-04-2015";"8.3";"25.7";"13";"0.0";"   Ensoleillé     ";"   Ensoleillé     ";"   Eclaircies   "
+"16-04-2015";"8.6";"18.2";"5";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"17-04-2015";"8.3";"15.6";"6";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"18-04-2015";"4.4";"15.1";"13";"0.0";"   Ensoleillé     ";"   Ensoleillé     ";"   Ensoleillé   "
+"20-04-2015";"4.9";"19.7";"13";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Ensoleillé   "
+"21-04-2015";"6.2";"19.8";"13";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"22-04-2015";"5.9";"13.9";"12";"0.0";"   Ensoleillé     ";"   Eclaircies     ";"   Eclaircies   "
+"23-04-2015";"5.0";"18.5";"13";"0.0";"   Ensoleillé     ";"   Ensoleillé     ";"   Ensoleillé   "
+"24-04-2015";"4.6";"22.6";"10";"1.2";"   Ensoleillé     ";"   Eclaircies     ";"   Très nuageux   "
+"25-04-2015";"11.0";"17.7";"1";"2.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"27-04-2015";"6.0";"13.2";"10";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"28-04-2015";"1.6";"13.1";"12";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Ensoleillé   "
+"29-04-2015";"2.4";"15.8";"4";"2.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"30-04-2015";"5.4";"15.1";"9";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"01-05-2015";"3.6";"14.3";"3";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"02-05-2015";"7.4";"15.1";"2";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"04-05-2015";"11.1";"20.4";"5";"34.1";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"05-05-2015";"13.6";"20.1";"9";"7.4";"   Très nuageux      ";NA;"   Ensoleillé   "
+"06-05-2015";"9.4";"16.7";"10";"0.8";"   Eclaircies      ";NA;"   Eclaircies   "
+"07-05-2015";"7.5";"16.5";"6";"0.0";"   Eclaircies     ";"   Très nuageux     ";"   Très nuageux   "
+"08-05-2015";"9.6";"20.4";"9";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"09-05-2015";"12.9";"17.0";"4";"0.0";"   Très nuageux     ";"   Bruine     ";"   Eclaircies   "
+"11-05-2015";"11.6";"25.2";"7";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"12-05-2015";"11.9";"19.1";"9";"0.2";"   Eclaircies     ";"   Eclaircies     ";"   Eclaircies   "
+"13-05-2015";"5.6";"19.5";"11";"0.0";"   Ensoleillé     ";"   Ensoleillé     ";"   Eclaircies   "
+"14-05-2015";"7.1";"14.1";"2";"9.1";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"15-05-2015";"9.3";"14.6";"5";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"16-05-2015";"7.3";"16.8";"0";"0.4";"   Très nuageux      ";NA;"   Très nuageux   "
+"18-05-2015";"6.6";"16.8";"2";"1.0";"   Eclaircies     ";"";NA
+"19-05-2015";"6.4";"14.6";"7";"5.1";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"20-05-2015";"5.8";"15.7";"6";"0.4";"   Eclaircies     ";"   Eclaircies     ";"   Très nuageux   "
+"21-05-2015";"4.5";"18.5";"11";"0.0";"   Ensoleillé     ";"   Eclaircies     ";"   Eclaircies   "
+"22-05-2015";"7.8";"19.9";"6";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"23-05-2015";"11.6";"18.1";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"25-05-2015";"12.4";"16.0";"4";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"26-05-2015";"8.9";"19.5";"9";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"27-05-2015";"11.2";"20.4";"11";"0.0";"   Eclaircies     ";"   Eclaircies     ";"   Ensoleillé   "
+"28-05-2015";"12.7";"18.0";"4";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"29-05-2015";"7.6";"14.8";"2";"1.6";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"30-05-2015";"6.5";"16.6";"10";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"01-06-2015";"7.6";"16.5";"3";"2.8";NA;"   Très nuageux     ";"   Eclaircies   "
+"02-06-2015";"10.9";"18.9";"0";"0.6";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"03-06-2015";"11.9";"18.5";"7";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"04-06-2015";"6.6";"24.4";"15";"0.0";NA;NA;NA
+"05-06-2015";"14.1";"32.2";"9";"1.4";NA;NA;"   Rares averses   "
+"06-06-2015";"10.6";"19.8";"15";"0.0";NA;NA;NA
+"08-06-2015";"8.8";"18.3";"10";"0.0";NA;NA;NA
+"09-06-2015";"8.9";"17.3";"13";"0.0";"   Très nuageux     ";NA;NA
+"10-06-2015";"9.1";"22.3";"15";"0.0";NA;NA;NA
+"11-06-2015";"12.7";"25.8";"15";"0.0";NA;NA;NA
+"12-06-2015";"16.6";"28.6";"8";"2.0";NA;NA;NA
+"13-06-2015";"14.3";"21.6";"9";"0.0";"   Très nuageux     ";"";NA
+"15-06-2015";"13.9";"20.7";"4";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"16-06-2015";"9.7";"19.6";"12";"0.0";NA;"";NA
+"17-06-2015";"9.2";"23.3";"11";"2.4";NA;"";NA
+"18-06-2015";"14.1";"18.7";"7";"0.0";"   Très nuageux     ";NA;NA
+"19-06-2015";"10.2";"17.8";"3";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"20-06-2015";"12.9";"20.8";"3";"11.1";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"22-06-2015";"11.9";"14.7";"2";"15.0";"   Bruine     ";"   Bruine     ";"   Très nuageux   "
+"23-06-2015";"10.6";"17.6";"5";"0.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"24-06-2015";"7.6";"22.3";"10";"0.0";"   Très nuageux     ";NA;NA
+"25-06-2015";"13.1";"24.9";"13";"0.0";NA;NA;NA
+"26-06-2015";"14.5";"28.5";"6";"0.0";NA;NA;NA
+"27-06-2015";"15.0";"23.3";"11";"0.0";"   Très nuageux     ";NA;NA
+"29-06-2015";"14.7";"25.7";"12";"0.0";NA;NA;NA
+"30-06-2015";"13.5";"29.5";"15";"0.0";NA;NA;NA
+"01-07-2015";"18.1";"35.1";"14";"0.0";NA;NA;NA
+"02-07-2015";"18.9";"27.7";"5";"3.3";"   Très nuageux      ";NA;"   Très nuageux   "
+"03-07-2015";"16.5";"30.8";"13";"0.0";NA;NA;NA
+"04-07-2015";"22.5";"28.9";"11";"0.0";"   Eclaircies     ";NA;NA
+"06-07-2015";"12.3";"26.7";"12";"0.0";NA;"";NA
+"07-07-2015";"14.5";"23.4";"3";"0.0";"   Très nuageux      ";NA;"   Très nuageux   "
+"08-07-2015";"13.8";"17.9";"0";"3.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"09-07-2015";"12.3";"20.2";"10";"0.0";NA;NA;"   Eclaircies   "
+"10-07-2015";"9.4";"25.7";"15";"0.0";NA;NA;NA
+"11-07-2015";"13.9";"27.3";"14";"0.0";NA;NA;NA
+"13-07-2015";"15.7";"18.5";"0";"2.2";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"14-07-2015";"16.3";"20.4";"0";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"15-07-2015";"15.4";"21.9";"1";"1.8";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"16-07-2015";"16.6";"29.0";"6";"0.0";"   Très nuageux     ";NA;NA
+"17-07-2015";"19.3";"27.5";"7";"0.6";"   Très nuageux     ";"";NA
+"18-07-2015";"13.7";"25.4";"8";"7.9";"   Très nuageux     ";NA;NA
+"20-07-2015";"15.5";"24.4";"1";"4.7";"   Très nuageux     ";"   Rares averses     ";"   Très nuageux   "
+"21-07-2015";"17.7";"26.1";"2";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"22-07-2015";"15.7";"24.2";"7";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"23-07-2015";"12.3";"23.3";"9";"0.0";"   Très nuageux     ";"";NA
+"24-07-2015";"14.8";"26.5";"2";"6.2";"   Très nuageux     ";"";NA
+"25-07-2015";"12.5";"18.4";"0";"10.6";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"27-07-2015";"13.9";"20.5";"2";"0.4";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"28-07-2015";"14.1";"18.4";"3";"0.8";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"29-07-2015";"10.6";"20.5";"10";"0.2";"   Eclaircies     ";"   Eclaircies     ";"   Très nuageux   "
+"30-07-2015";"10.5";"19.1";"5";"3.4";"   Très nuageux      ";NA;"   Eclaircies   "
+"31-07-2015";"7.4";"21.0";"11";"0.0";NA;NA;"   Très nuageux   "
+"01-08-2015";"10.8";"23.4";"12";"0.0";NA;NA;NA
+"03-08-2015";"15.1";"31.1";"13";"8.4";NA;NA;NA
+"04-08-2015";"15.4";"22.6";"8";"0.2";"   Très nuageux     ";NA;NA
+"05-08-2015";"11.8";"28.7";"12";"0.0";NA;NA;NA
+"06-08-2015";"13.6";"25.5";"13";"0.0";NA;NA;NA
+"07-08-2015";"12.5";"28.3";"11";"0.0";NA;NA;"   Très nuageux   "
+"08-08-2015";"15.5";"26.3";"7";"0.0";NA;NA;NA
+"10-08-2015";"15.3";"24.6";"5";"0.0";"   Très nuageux     ";NA;NA
+"11-08-2015";"16.0";"25.3";"2";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"12-08-2015";"18.0";"27.7";"7";"0.0";NA;"";NA
+"13-08-2015";"18.3";"31.9";"6";"46.5";NA;NA;NA
+"14-08-2015";"18.3";"25.6";"5";"2.2";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"15-08-2015";"16.5";"18.2";"0";"2.0";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"17-08-2015";"8.9";"18.0";"0";"5.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"18-08-2015";"12.5";"18.5";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"19-08-2015";"14.1";"23.8";"5";"0.2";"   Très nuageux      ";NA;"   Très nuageux   "
+"20-08-2015";"15.5";"21.5";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"21-08-2015";"15.6";"27.9";"12";"0.0";"   Eclaircies     ";"";NA
+"22-08-2015";"16.0";"29.0";"13";"0.0";NA;NA;NA
+"24-08-2015";"12.6";"20.9";"1";"18.3";"   Rares averses     ";"   Très nuageux     ";"   Très nuageux   "
+"25-08-2015";"14.4";"19.8";"4";"0.8";"   Très nuageux      ";NA;"   Bruine   "
+"26-08-2015";"16.7";"26.4";"4";"8.1";"   Très nuageux     ";"";NA
+"27-08-2015";"13.6";"15.8";"0";"10.5";"   Bruine     ";"   Bruine     ";"   Très nuageux   "
+"28-08-2015";"10.9";"21.7";"7";"0.2";"   Très nuageux      ";NA;"   Eclaircies   "
+"29-08-2015";"10.2";"24.7";"11";"0.6";NA;NA;NA
+"31-08-2015";"18.4";"26.5";"3";"25.2";NA;"   Rares averses     ";"   Très nuageux   "
+"01-09-2015";"15.5";"19.4";"2";"1.8";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"02-09-2015";"10.9";"18.8";"4";"1.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"03-09-2015";"7.7";"18.0";"6";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"04-09-2015";"10.0";"17.5";"5";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"05-09-2015";"10.6";"17.8";"1";"0.4";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"07-09-2015";"7.6";"16.5";"0";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"08-09-2015";"11.6";"17.8";"1";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"09-09-2015";"11.6";"20.8";"10";"0.0";NA;"";NA
+"10-09-2015";"10.5";"21.0";"11";"0.0";NA;NA;NA
+"11-09-2015";"9.7";"21.6";"11";"0.2";NA;NA;NA
+"12-09-2015";"13.8";"18.8";"0";"0.2";"   Eclaircies     ";"   Bruine     ";"   Très nuageux   "
+"14-09-2015";"9.1";"18.2";"4";"1.4";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"15-09-2015";"10.7";"17.1";"5";"3.8";NA;"   Très nuageux     ";"   Très nuageux   "
+"16-09-2015";"11.9";"19.8";"1";"1.8";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"17-09-2015";"13.4";"18.4";"2";"4.0";"   Très nuageux     ";"   Bruine     ";"   Eclaircies   "
+"18-09-2015";"10.9";"17.2";"1";"6.0";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"19-09-2015";"10.6";"17.9";"3";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"21-09-2015";"7.9";"18.8";"6";"6.8";NA;NA;NA
+"22-09-2015";"11.1";"15.2";"3";"4.6";"   Bruine     ";"";NA
+"23-09-2015";"9.6";"17.5";"5";"0.0";"   Très nuageux     ";"";NA
+"24-09-2015";"11.6";"17.1";"1";"1.2";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"25-09-2015";"8.4";"18.3";"7";"0.2";NA;NA;"   Très nuageux   "
+"26-09-2015";"6.1";"17.1";"8";"0.2";NA;NA;"   Très nuageux   "
+"28-09-2015";"8.4";"17.2";"10";"0.0";NA;"";NA
+"29-09-2015";"8.0";"18.2";"11";"0.0";NA;NA;NA
+"30-09-2015";"8.0";"17.9";"11";"0.0";NA;NA;NA
+"01-10-2015";"7.5";"16.6";"10";"0.0";NA;NA;NA
+"02-10-2015";"4.9";"18.2";"10";"0.0";NA;NA;NA
+"03-10-2015";"6.0";"20.0";"8";"0.2";NA;NA;NA
+"05-10-2015";"11.1";"17.5";"0";"10.9";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"06-10-2015";"14.2";"21.0";"2";"7.9";"   Pluie forte     ";"";NA
+"07-10-2015";"13.2";"15.4";"0";"3.2";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"08-10-2015";"11.4";"16.3";"5";"0.2";"   Très nuageux      ";NA;"   Eclaircies   "
+"09-10-2015";"6.0";"17.1";"5";"0.0";NA;NA;NA
+"10-10-2015";"9.0";"12.9";"0";"0.2";NA;"   Très nuageux     ";"   Très nuageux   "
+"12-10-2015";"4.4";"14.0";"8";"0.0";NA;NA;NA
+"13-10-2015";"5.4";"9.8";"5";"0.0";NA;NA;NA
+"14-10-2015";"1.4";"10.3";"0";"0.6";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"15-10-2015";"3.6";"8.4";"0";"8.2";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"16-10-2015";"5.6";"9.7";"0";"1.6";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"17-10-2015";"7.3";"12.0";"0";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"19-10-2015";"7.7";"13.7";"0";"0.2";NA;"   Très nuageux     ";"   Très nuageux   "
+"20-10-2015";"10.2";"13.2";"1";"2.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"21-10-2015";"4.8";"12.0";"0";"2.2";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"22-10-2015";"10.0";"16.5";"1";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"23-10-2015";"10.3";"13.3";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"24-10-2015";"9.8";"14.4";"0";"0.0";NA;NA;"   Très nuageux   "
+"26-10-2015";"6.9";"18.3";"7";"0.4";NA;NA;NA
+"27-10-2015";"7.7";"18.0";"1";"1.4";"   Très nuageux     ";NA;NA
+"28-10-2015";"10.1";"15.4";"0";"4.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"29-10-2015";"6.2";"12.2";"0";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"30-10-2015";"7.9";"15.7";"4";"0.2";"   Eclaircies     ";NA;NA
+"31-10-2015";"5.7";"16.2";"8";"0.4";NA;NA;NA
+"02-11-2015";"3.6";"8.8";"0";"0.0";"   Bancs de brouillard     ";NA;NA
+"03-11-2015";"4.3";"15.9";"1";"0.0";NA;"   Eclaircies     ";"   Très nuageux   "
+"04-11-2015";"9.9";"14.8";"0";"1.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"05-11-2015";"9.6";"17.8";"2";"3.0";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"06-11-2015";"14.3";"17.4";"1";"0.6";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"07-11-2015";"16.3";"20.1";"1";"2.4";"   Très nuageux     ";"";NA
+"09-11-2015";"12.3";"15.6";"1";"0.0";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"10-11-2015";"11.9";"15.4";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"11-11-2015";"11.1";"13.6";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"12-11-2015";"11.3";"15.9";"4";"1.2";NA;NA;"   Très nuageux   "
+"13-11-2015";"9.0";"14.5";"2";"4.1";NA;"   Très nuageux     ";"   Très nuageux   "
+"14-11-2015";"6.4";"14.4";"0";"5.0";NA;"   Bruine     ";"   Très nuageux   "
+"16-11-2015";"11.6";"14.9";"0";"5.4";"   Très nuageux     ";"";NA
+"17-11-2015";"12.3";"16.4";"1";"2.2";NA;"   Eclaircies     ";"   Bruine   "
+"18-11-2015";"11.7";"14.8";"4";"2.0";"   Très nuageux     ";"";NA
+"19-11-2015";"10.6";"13.7";"0";"14.7";"   Très nuageux     ";"   Bruine     ";"   Bruine   "
+"20-11-2015";"5.7";"9.2";"0";"3.6";"   Bruine     ";"   Bruine     ";"   Très nuageux   "
+"21-11-2015";"0.9";"7.2";"0";"15.6";"   Très nuageux     ";"   Bruine     ";"   Bruine   "
+"23-11-2015";"-2.4";"6.7";"6";"0.0";NA;NA;"   Très nuageux   "
+"24-11-2015";"0.9";"6.9";"0";"9.1";"   Bruine     ";"   Bruine     ";"   Bruine   "
+"25-11-2015";"4.1";"9.3";"3";"7.6";NA;"   Très nuageux     ";"   Très nuageux   "
+"26-11-2015";"3.6";"9.4";"4";"1.0";NA;"";NA
+"27-11-2015";"0.9";"7.7";"0";"1.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"28-11-2015";"2.3";"10.0";"5";"0.6";NA;NA;"   Très nuageux   "
+"30-11-2015";"9.5";"12.5";"0";"14.3";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"01-12-2015";"11.2";"13.6";"0";"1.4";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"02-12-2015";"9.7";"12.3";"1";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"03-12-2015";"6.4";"10.2";"2";"3.4";NA;"   Très nuageux     ";"   Très nuageux   "
+"04-12-2015";"6.5";"11.9";"7";"0.0";NA;NA;NA
+"05-12-2015";"4.9";"8.7";"1";"0.0";NA;NA;NA
+"07-12-2015";"7.6";"12.5";"5";"0.0";NA;NA;NA
+"08-12-2015";"7.5";"10.5";"1";"2.2";NA;"   Très nuageux     ";"   Très nuageux   "
+"09-12-2015";"3.2";"10.5";"7";"0.2";NA;NA;NA
+"10-12-2015";"3.5";"5.9";"2";"1.0";NA;NA;NA
+"11-12-2015";"3.4";"10.0";"0";"6.2";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"12-12-2015";"5.3";"11.1";"0";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"14-12-2015";"5.0";"6.8";"0";"0.8";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"15-12-2015";"4.9";"11.8";"0";"8.3";NA;"   Très nuageux     ";"   Très nuageux   "
+"16-12-2015";"9.4";"14.2";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"17-12-2015";"11.9";"14.9";"2";"0.6";NA;"";NA
+"18-12-2015";"10.3";"13.3";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"19-12-2015";"10.8";"14.4";"1";"0.2";"   Très nuageux     ";"";NA
+"21-12-2015";"8.8";"12.2";"3";"2.8";NA;"   Très nuageux     ";"   Très nuageux   "
+"22-12-2015";"10.6";"14.1";"0";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"23-12-2015";"8.4";"11.8";"3";"0.0";"   Bruine     ";NA;NA
+"24-12-2015";"6.8";"12.2";"2";"1.8";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"25-12-2015";"7.1";"13.1";"0";"1.8";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"26-12-2015";"9.9";"13.8";"6";"0.0";NA;NA;NA
+"28-12-2015";"4.7";"11.0";"5";"0.0";NA;NA;NA
+"29-12-2015";"7.4";"11.5";"1";"0.6";"   Bruine     ";"   Eclaircies     ";"   Eclaircies   "
+"30-12-2015";"5.8";"9.6";"1";"4.6";NA;NA;"   Très nuageux   "
+"31-12-2015";"7.0";"10.5";"5";"0.0";NA;NA;"   Très nuageux   "
+"01-01-2016";"1.7";"7.9";"0";"2.8";"   Bancs de brouillard     ";"   Eclaircies     ";"   Très nuageux   "
+"02-01-2016";"6.0";"10.7";"1";"7.5";NA;"   Très nuageux     ";"   Très nuageux   "
+"04-01-2016";"5.7";"9.3";"1";"1.6";"   Bruine     ";"   Bruine     ";"   Très nuageux   "
+"05-01-2016";"4.8";"8.6";"0";"0.6";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"06-01-2016";"6.8";"8.8";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"07-01-2016";"5.9";"10.2";"0";"10.3";"   Rares averses     ";"   Très nuageux     ";"   Très nuageux   "
+"08-01-2016";"1.3";"7.8";"6";"1.4";NA;NA;NA
+"09-01-2016";"2.6";"9.0";"0";"3.0";"   Bruine     ";"";NA
+"11-01-2016";"2.9";"8.1";"0";"2.2";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"12-01-2016";"3.5";"8.2";"4";"0.4";NA;"";NA
+"13-01-2016";"3.3";"8.0";"4";"1.0";"   Très nuageux     ";NA;NA
+"14-01-2016";"2.7";"7.5";"2";"5.8";"   Très nuageux      ";NA;"   Très nuageux   "
+"15-01-2016";"1.4";"5.1";"0";"6.9";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"16-01-2016";"0.8";"6.8";"3";"0.6";"   Très nuageux     ";NA;NA
+"18-01-2016";"-3.9";"0.4";"1";"0.2";NA;NA;NA
+"19-01-2016";"-4.3";"1.5";"5";"0.0";"   Très nuageux     ";NA;NA
+"20-01-2016";"-4.0";"3.0";"1";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"21-01-2016";"-2.8";"4.7";"7";"0.0";NA;NA;NA
+"22-01-2016";"-1.0";"6.0";"0";"7.3";"   Très nuageux     ";"   Très nuageux     ";"   Pluie et neige    "
+"23-01-2016";"3.4";"8.5";"0";"1.0";"   Bancs de brouillard     ";"";NA
+"25-01-2016";"5.7";"12.4";"7";"0.0";NA;NA;NA
+"26-01-2016";"7.4";"11.6";"2";"0.6";"   Très nuageux     ";"";NA
+"27-01-2016";"9.6";"12.1";"0";"5.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"28-01-2016";"3.6";"8.6";"7";"0.0";NA;NA;NA
+"29-01-2016";"3.4";"9.7";"0";"2.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"30-01-2016";"4.6";"9.4";"0";"8.7";"   Bruine     ";"   Bruine     ";"   Très nuageux   "
+"01-02-2016";"10.6";"11.9";"0";"1.6";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"02-02-2016";"7.3";"9.7";"0";"4.8";"   Bruine     ";"   Bruine     ";"   Très nuageux   "
+"03-02-2016";"2.9";"7.6";"3";"0.8";NA;"   Très nuageux     ";"   Très nuageux   "
+"04-02-2016";"1.9";"11.0";"0";"4.2";"   Bruine     ";"   Bruine     ";"   Bruine   "
+"05-02-2016";"8.2";"10.8";"0";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"06-02-2016";"7.9";"11.8";"0";"4.6";"   Très nuageux     ";"";NA
+"08-02-2016";"4.9";"9.4";"3";"5.6";"   Rares averses     ";NA;NA
+"09-02-2016";"3.8";"6.6";"0";"15.7";"   Bruine     ";"   Bruine     ";"   Bruine   "
+"10-02-2016";"2.6";"8.5";"2";"0.8";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"11-02-2016";"0.6";"6.0";"0";"0.6";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"12-02-2016";"1.3";"6.8";"3";"0.0";"   Très nuageux     ";NA;NA
+"13-02-2016";"-0.8";"4.0";"0";"6.2";"   Très nuageux     ";"   Bruine     ";"   Bruine   "
+"15-02-2016";"1.8";"7.1";"5";"0.0";NA;NA;NA
+"16-02-2016";"-2.5";"5.5";"8";"0.0";NA;NA;NA
+"17-02-2016";"-4.2";"4.8";"8";"0.0";NA;NA;NA
+"18-02-2016";"-1.7";"2.5";"0";"4.8";"   Très nuageux     ";"   Bruine     ";"   Pluie et neige    "
+"19-02-2016";"-1.5";"8.4";"6";"1.0";NA;NA;"   Très nuageux   "
+"20-02-2016";"5.2";"11.2";"0";"4.6";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"22-02-2016";"6.0";"11.7";"0";"7.2";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"23-02-2016";"2.9";"8.5";"2";"0.8";"   Très nuageux     ";"";NA
+"24-02-2016";"-1.2";"7.3";"6";"0.0";NA;NA;"   Très nuageux   "
+"25-02-2016";"1.2";"7.5";"4";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"26-02-2016";"1.4";"7.3";"1";"0.0";NA;"";NA
+"27-02-2016";"0.9";"6.7";"8";"0.0";NA;NA;NA
+"29-02-2016";"0.7";"7.1";"9";"0.0";NA;NA;NA
+"01-03-2016";"-2.1";"9.4";"0";"4.4";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"02-03-2016";"3.6";"9.6";"3";"3.6";NA;"   Très nuageux     ";"   Très nuageux   "
+"03-03-2016";"2.9";"9.0";"4";"5.8";"   Très nuageux     ";NA;NA
+"04-03-2016";"2.6";"9.3";"4";"5.5";"   Bruine     ";"";NA
+"05-03-2016";"0.9";"8.5";"3";"2.2";NA;"   Très nuageux     ";"   Très nuageux   "
+"07-03-2016";"0.5";"6.6";"3";"3.0";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"08-03-2016";"-0.1";"8.5";"3";"0.0";NA;"   Très nuageux     ";"   Eclaircies   "
+"09-03-2016";"4.0";"5.6";"0";"2.2";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"10-03-2016";"4.5";"11.7";"6";"0.0";NA;NA;NA
+"11-03-2016";"0.7";"10.4";"9";"0.0";NA;NA;NA
+"12-03-2016";"1.8";"11.3";"10";"0.0";NA;NA;NA
+"14-03-2016";"0.0";"8.0";"10";"0.0";NA;NA;NA
+"15-03-2016";"0.5";"11.7";"10";"0.0";NA;NA;NA
+"16-03-2016";"3.3";"8.8";"5";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"17-03-2016";"0.9";"11.0";"9";"0.0";NA;NA;NA
+"18-03-2016";"2.7";"9.2";"1";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"19-03-2016";"5.1";"9.8";"1";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"21-03-2016";"5.9";"10.4";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"22-03-2016";"2.0";"12.5";"7";"0.0";NA;NA;"   Très nuageux   "
+"23-03-2016";"5.5";"10.4";"1";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"24-03-2016";"6.6";"10.4";"0";"5.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"25-03-2016";"6.6";"12.2";"5";"3.9";"   Bruine     ";"";NA
+"26-03-2016";"2.5";"14.5";"2";"10.1";NA;"   Très nuageux     ";"   Très nuageux   "
+"28-03-2016";"7.5";"12.3";"4";"4.6";"   Très nuageux     ";"";NA
+"29-03-2016";"5.3";"13.1";"4";"0.6";"   Très nuageux     ";"";NA
+"30-03-2016";"7.2";"11.9";"1";"2.0";"   Très nuageux     ";"";NA
+"31-03-2016";"6.1";"9.7";"0";"1.4";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"01-04-2016";"3.0";"12.9";"8";"0.0";NA;NA;"   Très nuageux   "
+"02-04-2016";"3.2";"12.0";"3";"1.4";"   Eclaircies     ";"   Eclaircies     ";"   Très nuageux   "
+"04-04-2016";"10.2";"16.3";"4";"0.8";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"05-04-2016";"7.9";"14.2";"4";"0.0";"   Très nuageux      ";NA;"   Très nuageux   "
+"06-04-2016";"7.3";"11.8";"2";"2.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"07-04-2016";"3.7";"11.5";"6";"1.0";"   Eclaircies      ";NA;"   Très nuageux   "
+"08-04-2016";"3.6";"13.5";"4";"0.4";"   Très nuageux     ";"";NA
+"09-04-2016";"3.0";"14.1";"5";"4.0";NA;"   Eclaircies     ";"   Très nuageux   "
+"11-04-2016";"8.7";"17.5";"6";"1.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"12-04-2016";"6.0";"16.2";"8";"0.0";NA;NA;"   Eclaircies   "
+"13-04-2016";"6.8";"13.0";"2";"5.0";"   Bruine     ";"";NA
+"14-04-2016";"3.1";"17.3";"8";"9.3";NA;NA;NA
+"15-04-2016";"9.6";"17.0";"4";"0.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"16-04-2016";"7.5";"12.2";"2";"1.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"18-04-2016";"0.6";"13.3";"7";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"19-04-2016";"6.6";"14.4";"5";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"20-04-2016";"3.6";"16.1";"13";"0.0";NA;NA;NA
+"21-04-2016";"6.4";"18.9";"9";"0.0";"   Très nuageux     ";"";NA
+"22-04-2016";"9.0";"14.4";"3";"0.4";NA;NA;NA
+"23-04-2016";"6.9";"10.6";"5";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"25-04-2016";"2.9";"9.9";"0";"6.6";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"26-04-2016";"1.7";"8.2";"6";"5.8";"   Très nuageux     ";"   Très nuageux     ";"   Rares averses   "
+"27-04-2016";"2.7";"10.6";"5";"1.0";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"28-04-2016";"-0.3";"11.7";"10";"0.0";"   Eclaircies     ";NA;NA
+"29-04-2016";"4.9";"10.7";"0";"1.4";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"30-04-2016";"4.7";"11.5";"5";"0.0";"   Très nuageux     ";NA;NA
+"02-05-2016";"2.4";"17.2";"8";"0.6";NA;NA;"   Très nuageux   "
+"03-05-2016";"7.1";"15.7";"11";"0.0";NA;NA;NA
+"04-05-2016";"3.3";"17.5";"13";"0.0";NA;NA;NA
+"05-05-2016";"6.5";"19.9";"14";"0.0";NA;NA;NA
+"06-05-2016";"10.1";"23.6";"14";"0.0";NA;NA;NA
+"07-05-2016";"11.3";"24.6";"13";"0.0";NA;NA;NA
+"09-05-2016";"15.3";"24.1";"8";"5.1";NA;NA;"   Très nuageux   "
+"10-05-2016";"14.5";"20.4";"1";"6.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"11-05-2016";"14.4";"23.2";"6";"7.5";"   Eclaircies     ";"";NA
+"12-05-2016";"13.1";"23.0";"5";"0.0";"   Très nuageux     ";NA;NA
+"13-05-2016";"12.8";"23.5";"13";"0.0";NA;NA;NA
+"14-05-2016";"8.9";"12.6";"4";"0.0";"   Très nuageux     ";"";NA
+"16-05-2016";"8.5";"15.2";"1";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"17-05-2016";"7.7";"19.4";"7";"0.0";NA;"";NA
+"18-05-2016";"9.8";"17.4";"1";"3.0";NA;"   Eclaircies     ";"   Très nuageux   "
+"19-05-2016";"7.0";"18.1";"7";"0.6";"   Eclaircies     ";NA;NA
+"20-05-2016";"10.0";"19.2";"4";"1.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"21-05-2016";"13.0";"23.0";"4";"9.1";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"23-05-2016";"10.8";"16.8";"3";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"24-05-2016";"10.4";"15.6";"4";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"25-05-2016";"7.9";"17.4";"5";"0.0";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"26-05-2016";"7.8";"21.9";"12";"0.0";NA;NA;NA
+"27-05-2016";"13.2";"23.8";"3";"0.0";NA;NA;NA
+"28-05-2016";"12.1";"23.0";"9";"0.6";NA;NA;NA
+"30-05-2016";"12.3";"13.2";"0";"45.4";"   Bruine     ";"   Très nuageux     ";"   Rares averses   "
+"31-05-2016";"12.3";"18.2";"0";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"01-06-2016";"13.1";"14.3";"0";"0.0";NA;NA;"   Bruine   "
+"02-06-2016";"11.7";"12.9";"0";"2.0";NA;NA;"   Très nuageux   "
+"03-06-2016";"10.8";"14.4";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"04-06-2016";"11.5";"15.7";"0";"1.8";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"06-06-2016";"12.6";"26.6";"10";"0.2";NA;NA;NA
+"07-06-2016";"14.9";"27.1";"8";"39.1";NA;NA;"   Pluie forte   "
+"08-06-2016";"13.3";"24.3";"9";"0.0";NA;NA;NA
+"09-06-2016";"12.3";"21.9";"11";"0.0";NA;NA;NA
+"10-06-2016";"10.2";"22.9";"9";"0.0";NA;NA;NA
+"11-06-2016";"15.6";"23.0";"2";"0.0";NA;NA;NA
+"13-06-2016";"14.7";"18.0";"0";"1.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"14-06-2016";"13.4";"19.0";"3";"1.6";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"15-06-2016";"12.4";"19.6";"6";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"16-06-2016";"9.8";"19.2";"5";"10.2";"   Rares averses     ";"   Très nuageux     ";"   Très nuageux   "
+"17-06-2016";"13.0";"17.2";"1";"39.6";"   Très nuageux     ";"   Bruine     ";"   Rares averses   "
+"18-06-2016";"12.4";"16.9";"1";"5.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"20-06-2016";"14.1";"17.9";"0";"9.7";"   Bruine     ";"   Bruine     ";"   Très nuageux   "
+"21-06-2016";"15.5";"20.0";"1";"4.6";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"22-06-2016";"13.1";"27.2";"5";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Eclaircies   "
+"23-06-2016";"17.8";"28.5";"5";"13.9";"   Très nuageux     ";NA;NA
+"24-06-2016";"16.9";"23.3";"12";"0.0";NA;NA;NA
+"25-06-2016";"12.0";"21.0";"11";"0.8";NA;NA;NA
+"27-06-2016";"12.6";"21.7";"2";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"28-06-2016";"12.3";"22.1";"3";"22.0";"   Très nuageux     ";"   Eclaircies     ";"   Très nuageux   "
+"29-06-2016";"13.5";"20.4";"2";"1.2";"   Eclaircies      ";NA;"   Très nuageux   "
+"30-06-2016";"14.3";"20.7";"1";"2.2";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"01-07-2016";"15.9";"20.1";"0";"3.4";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"02-07-2016";"12.3";"19.3";"10";"1.2";NA;"";NA
+"04-07-2016";"13.2";"22.5";"2";"0.0";"   Très nuageux      ";NA;"   Très nuageux   "
+"05-07-2016";"13.7";"20.2";"2";"0.4";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"06-07-2016";"11.3";"22.2";"11";"0.0";NA;NA;"   Très nuageux   "
+"07-07-2016";"12.7";"25.6";"7";"0.0";"   Eclaircies     ";"   Très nuageux     ";"   Eclaircies   "
+"08-07-2016";"15.0";"24.1";"6";"0.0";NA;NA;"   Très nuageux   "
+"09-07-2016";"15.4";"26.3";"13";"0.0";NA;NA;NA
+"11-07-2016";"16.0";"21.5";"3";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"12-07-2016";"12.5";"21.1";"8";"2.8";NA;"";NA
+"13-07-2016";"10.9";"18.2";"1";"17.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"14-07-2016";"10.3";"19.6";"10";"5.8";"   Très nuageux      ";NA;"   Très nuageux   "
+"15-07-2016";"10.8";"23.0";"12";"0.0";NA;NA;NA
+"16-07-2016";"15.1";"25.7";"6";"0.0";"   Très nuageux      ";NA;"   Très nuageux   "
+"18-07-2016";"15.1";"29.1";"11";"0.0";NA;NA;"   Très nuageux   "
+"19-07-2016";"17.0";"32.2";"15";"0.0";NA;NA;NA
+"20-07-2016";"20.9";"30.7";"12";"0.0";NA;"";NA
+"21-07-2016";"15.4";"25.7";"6";"0.0";"   Très nuageux     ";NA;NA
+"22-07-2016";"16.8";"25.5";"6";"0.0";"   Eclaircies     ";NA;NA
+"23-07-2016";"16.8";"24.9";"5";"0.0";"   Très nuageux     ";"";NA
+"25-07-2016";"18.5";"25.9";"7";"0.0";"   Très nuageux     ";"";NA
+"26-07-2016";"12.8";"22.6";"6";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"27-07-2016";"12.1";"21.3";"1";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"28-07-2016";"17.3";"22.6";"7";"2.8";NA;"";NA
+"29-07-2016";"16.5";"22.8";"4";"0.4";"   Très nuageux     ";"";NA
+"30-07-2016";"14.0";"21.8";"2";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"01-08-2016";"11.6";"21.6";"5";"12.1";"   Très nuageux     ";"   Eclaircies     ";"   Eclaircies   "
+"02-08-2016";"13.7";"19.0";"0";"7.0";NA;"";NA
+"03-08-2016";"17.7";"19.3";"0";"11.5";"   Bruine     ";NA;NA
+"04-08-2016";"14.3";"21.6";"6";"0.2";NA;NA;NA
+"05-08-2016";"12.9";"23.2";"7";"0.0";NA;NA;NA
+"06-08-2016";"12.3";"23.0";"10";"0.0";NA;"";NA
+"08-08-2016";"14.4";"22.4";"7";"0.0";"   Très nuageux     ";NA;NA
+"09-08-2016";"13.2";"20.0";"10";"1.6";"   Très nuageux     ";NA;NA
+"10-08-2016";"10.6";"16.6";"4";"10.0";"   Pluie forte     ";"   Très nuageux     ";"   Très nuageux   "
+"11-08-2016";"9.5";"19.2";"2";"3.0";"   Bruine      ";NA;"   Très nuageux   "
+"12-08-2016";"14.1";"24.9";"9";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"13-08-2016";"13.3";"25.6";"12";"0.2";NA;NA;NA
+"15-08-2016";"13.7";"22.9";"13";"0.0";NA;NA;NA
+"16-08-2016";"13.4";"24.7";"13";"0.0";NA;NA;NA
+"17-08-2016";"14.0";"26.3";"11";"0.0";NA;NA;"   Très nuageux   "
+"18-08-2016";"14.6";"23.4";"3";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"19-08-2016";"15.0";"23.6";"0";"1.0";NA;"   Très nuageux     ";"   Eclaircies   "
+"20-08-2016";"13.9";"24.2";"10";"1.6";NA;"   Eclaircies     ";"   Eclaircies   "
+"22-08-2016";"14.9";"26.0";"10";"0.0";NA;"";NA
+"23-08-2016";"14.0";"29.7";"13";"0.0";NA;NA;NA
+"24-08-2016";"17.7";"34.5";"13";"0.0";NA;NA;NA
+"25-08-2016";"17.2";"35.3";"13";"0.0";NA;NA;NA
+"26-08-2016";"18.5";"28.2";"10";"0.0";NA;NA;NA
+"27-08-2016";"18.4";"33.6";"11";"0.0";NA;NA;NA
+"29-08-2016";"17.0";"23.0";"4";"0.0";"   Très nuageux     ";"";NA
+"30-08-2016";"10.9";"24.7";"12";"0.2";NA;NA;NA
+"31-08-2016";"11.6";"26.8";"11";"0.0";NA;"";NA
+"01-09-2016";"13.6";"24.9";"7";"0.2";"   Très nuageux     ";"";NA
+"02-09-2016";"10.7";"23.9";"5";"0.8";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"03-09-2016";"13.7";"23.9";"5";"2.0";"   Très nuageux     ";NA;NA
+"05-09-2016";"16.1";"19.1";"0";"1.3";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"06-09-2016";"18.0";"24.1";"1";"0.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"07-09-2016";"14.7";"27.0";"11";"0.0";NA;NA;NA
+"08-09-2016";"14.1";"25.9";"12";"0.2";NA;NA;NA
+"09-09-2016";"10.2";"25.3";"12";"0.0";NA;NA;NA
+"10-09-2016";"12.1";"26.4";"10";"0.2";NA;NA;NA
+"12-09-2016";"16.9";"30.3";"11";"0.0";NA;NA;NA
+"13-09-2016";"19.0";"32.1";"9";"0.0";"   Très nuageux     ";NA;NA
+"14-09-2016";"19.0";"30.3";"11";"0.0";NA;NA;NA
+"15-09-2016";"15.6";"26.1";"7";"0.8";NA;NA;"   Très nuageux   "
+"16-09-2016";"14.9";"21.5";"4";"23.7";NA;"   Très nuageux     ";"   Très nuageux   "
+"17-09-2016";"14.0";"18.1";"1";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"19-09-2016";"12.5";"21.4";"6";"0.0";NA;NA;"   Très nuageux   "
+"20-09-2016";"12.5";"21.8";"5";"0.2";"   Très nuageux      ";NA;"   Très nuageux   "
+"21-09-2016";"11.3";"21.7";"6";"0.2";"   Très nuageux     ";NA;NA
+"22-09-2016";"10.1";"22.3";"5";"0.0";NA;"";NA
+"23-09-2016";"10.6";"21.6";"7";"0.2";NA;"   Très nuageux     ";"   Très nuageux   "
+"24-09-2016";"10.4";"24.5";"10";"0.0";NA;NA;NA
+"26-09-2016";"7.8";"18.6";"2";"0.2";"   Eclaircies     ";NA;NA
+"27-09-2016";"7.0";"22.4";"9";"0.0";NA;NA;NA
+"28-09-2016";"15.1";"22.3";"7";"0.0";NA;NA;NA
+"29-09-2016";"13.6";"18.2";"1";"1.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"30-09-2016";"11.9";"19.0";"2";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"01-10-2016";"10.0";"18.9";"4";"1.6";NA;"   Très nuageux     ";"   Très nuageux   "
+"03-10-2016";"5.6";"17.9";"7";"0.2";NA;"";NA
+"04-10-2016";"10.2";"16.5";"6";"0.0";"   Très nuageux     ";NA;NA
+"05-10-2016";"7.5";"14.8";"10";"0.0";NA;NA;NA
+"06-10-2016";"4.5";"13.9";"7";"0.0";"   Très nuageux      ";NA;"   Très nuageux   "
+"07-10-2016";"9.1";"13.6";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"08-10-2016";"8.8";"15.8";"3";"0.0";"   Très nuageux     ";"";NA
+"10-10-2016";"6.0";"14.2";"3";"0.8";NA;"   Très nuageux     ";"   Très nuageux   "
+"11-10-2016";"3.8";"13.6";"8";"0.0";NA;NA;NA
+"12-10-2016";"6.0";"10.5";"0";"2.6";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"13-10-2016";"5.2";"13.0";"7";"0.0";NA;NA;NA
+"14-10-2016";"8.4";"13.0";"0";"8.7";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"15-10-2016";"9.9";"16.3";"6";"0.0";"   Très nuageux     ";"";NA
+"17-10-2016";"10.9";"17.0";"3";"0.2";"   Très nuageux     ";"";NA
+"18-10-2016";"8.3";"13.1";"0";"2.0";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"19-10-2016";"7.4";"12.6";"0";"12.7";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"20-10-2016";"6.9";"15.0";"3";"10.1";"   Très nuageux     ";"";NA
+"21-10-2016";"5.8";"13.8";"3";"0.6";"   Bancs de brouillard      ";NA;"   Très nuageux   "
+"22-10-2016";"4.8";"15.4";"3";"0.0";"   Très nuageux     ";"";NA
+"24-10-2016";"6.4";"10.3";"0";"0.0";NA;NA;NA
+"25-10-2016";"5.6";"11.2";"0";"0.2";NA;NA;"   Très nuageux   "
+"26-10-2016";"2.3";"12.0";"3";"0.2";"   Bancs de brouillard     ";NA;NA
+"27-10-2016";"6.1";"13.9";"0";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"28-10-2016";"11.0";"15.2";"1";"0.0";"   Eclaircies     ";"   Très nuageux     ";"   Très nuageux   "
+"29-10-2016";"11.5";"16.6";"4";"0.4";NA;"";NA
+"31-10-2016";"6.9";"17.3";"8";"0.2";NA;NA;NA
+"01-11-2016";"4.3";"15.7";"5";"0.4";"   Bancs de brouillard      ";NA;"   Très nuageux   "
+"02-11-2016";"4.9";"11.1";"6";"0.0";NA;"";NA
+"03-11-2016";"3.8";"12.0";"6";"0.0";NA;NA;"   Très nuageux   "
+"04-11-2016";"4.3";"9.3";"0";"3.0";NA;"   Très nuageux     ";"   Bruine   "
+"05-11-2016";"4.7";"10.1";"3";"1.2";NA;"   Très nuageux     ";"   Très nuageux   "
+"07-11-2016";"3.6";"5.8";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"08-11-2016";"0.7";"7.2";"3";"1.0";"   Très nuageux     ";"";NA
+"09-11-2016";"0.9";"7.0";"0";"16.5";"   Bruine     ";"   Bruine     ";"   Bruine   "
+"10-11-2016";"4.8";"9.9";"2";"7.6";NA;"   Très nuageux     ";"   Très nuageux   "
+"11-11-2016";"2.3";"7.5";"7";"0.0";NA;NA;NA
+"12-11-2016";"-1.8";"5.0";"1";"2.4";"   Très nuageux      ";NA;"   Très nuageux   "
+"14-11-2016";"3.5";"9.7";"0";"1.0";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"15-11-2016";"7.0";"13.7";"0";"2.8";NA;"   Très nuageux     ";"   Très nuageux   "
+"16-11-2016";"11.8";"14.3";"0";"3.6";"   Très nuageux     ";"";NA
+"17-11-2016";"8.7";"12.4";"1";"10.6";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"18-11-2016";"3.1";"8.3";"0";"8.4";"   Rares averses     ";"   Très nuageux     ";"   Eclaircies   "
+"19-11-2016";"4.2";"8.8";"1";"0.6";NA;NA;"   Très nuageux   "
+"21-11-2016";"8.8";"15.0";"0";"0.2";"   Bruine     ";"   Très nuageux     ";"   Bruine   "
+"22-11-2016";"8.0";"11.8";"2";"1.0";NA;NA;"   Très nuageux   "
+"23-11-2016";"6.5";"11.1";"1";"5.2";"   Bruine     ";"";NA
+"24-11-2016";"7.8";"11.3";"3";"0.0";NA;NA;NA
+"25-11-2016";"3.9";"8.2";"6";"0.0";"   Très nuageux     ";NA;NA
+"26-11-2016";"3.8";"7.3";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"28-11-2016";"1.3";"5.2";"7";"0.0";NA;NA;NA
+"29-11-2016";"-2.7";"3.4";"7";"0.0";NA;NA;NA
+"30-11-2016";"-5.1";"5.9";"7";"0.0";NA;NA;NA
+"01-12-2016";"-1.6";"8.2";"7";"0.0";NA;NA;"   Très nuageux   "
+"02-12-2016";"3.9";"8.8";"0";"0.2";"   Très nuageux     ";"   Bruine     ";"   Très nuageux   "
+"03-12-2016";"0.7";"5.2";"4";"0.0";"   Bancs de brouillard     ";NA;NA
+"05-12-2016";"-2.4";"5.2";"7";"0.0";NA;NA;NA
+"06-12-2016";"0.1";"7.9";"5";"0.0";NA;NA;NA
+"07-12-2016";"1.8";"9.2";"2";"0.0";"   Très nuageux     ";NA;NA
+"08-12-2016";"2.6";"8.4";"4";"0.0";NA;"";NA
+"09-12-2016";"6.9";"11.1";"4";"0.0";"   Très nuageux     ";NA;NA
+"10-12-2016";"4.0";"10.1";"0";"2.2";NA;NA;NA
+"12-12-2016";"3.6";"5.4";"0";"4.2";"   Bancs de brouillard      ";NA;"   Très nuageux   "
+"13-12-2016";"4.2";"7.8";"0";"0.0";NA;NA;"   Très nuageux   "
+"14-12-2016";"2.3";"10.7";"6";"0.0";NA;NA;NA
+"15-12-2016";"1.9";"7.6";"6";"0.0";NA;NA;NA
+"16-12-2016";"3.6";"9.2";"2";"0.0";"   Très nuageux     ";NA;NA
+"17-12-2016";"-0.1";"6.8";"0";"0.0";"   Bancs de brouillard     ";"   Bancs de brouillard     ";"   Bancs de brouillard   "
+"19-12-2016";"5.4";"7.2";"2";"0.2";NA;NA;NA
+"20-12-2016";"-0.4";"4.4";"2";"0.0";NA;NA;"   Très nuageux   "
+"21-12-2016";"1.5";"6.6";"1";"15.5";NA;NA;"   Très nuageux   "
+"22-12-2016";"5.2";"6.4";"0";"0.6";NA;"   Bancs de brouillard     ";"   Bancs de brouillard   "
+"23-12-2016";"1.7";"8.0";"4";"0.2";NA;"   Eclaircies     ";"   Très nuageux   "
+"24-12-2016";"5.6";"9.7";"0";"0.2";"   Eclaircies      ";NA;"   Très nuageux   "
+"26-12-2016";"3.3";"11.2";"2";"2.0";"   Bruine     ";NA;NA
+"27-12-2016";"-0.6";"7.9";"7";"0.0";NA;NA;NA
+"28-12-2016";"-2.6";"2.0";"1";"0.0";NA;"   Bancs de brouillard     ";"   Bancs de brouillard   "
+"29-12-2016";"-2.5";"-1.0";"0";"0.0";"   Brouillard givrant     ";"   Brouillard givrant     ";"   Brouillard givrant   "
+"30-12-2016";"-4.8";"-0.6";"2";"0.0";NA;NA;"   Brouillard givrant   "
+"31-12-2016";"-3.3";"-2.2";"0";"0.0";"   Brouillard givrant     ";"";NA
+"02-01-2017";"-1.0";"6.0";"6";"0.0";NA;NA;"   Eclaircies   "
+"03-01-2017";"-2.6";"5.8";"6";"0.2";NA;NA;NA
+"04-01-2017";"2.1";"7.3";"1";"2.4";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"05-01-2017";"0.3";"6.5";"5";"0.0";NA;NA;"   Très nuageux   "
+"06-01-2017";"-4.6";"1.5";"7";"0.0";NA;NA;NA
+"07-01-2017";"-2.6";"4.3";"0";"1.2";"   Très nuageux     ";NA;NA
+"09-01-2017";"4.1";"7.2";"0";"6.0";"   Très nuageux      ";NA;"   Très nuageux   "
+"10-01-2017";"2.2";"7.6";"0";"0.8";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"11-01-2017";"5.6";"12.4";"2";"0.8";"   Bruine      ";NA;"   Très nuageux   "
+"12-01-2017";"3.9";"6.8";"0";"17.1";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"13-01-2017";"0.5";"4.9";"2";"2.4";NA;"   Bruine     ";"   Neige   "
+"14-01-2017";"-0.5";"5.1";"2";"3.0";NA;"";NA
+"16-01-2017";"-2.0";"2.8";"0";"0.0";"   Bancs de brouillard     ";NA;NA
+"17-01-2017";"-3.2";"-0.5";"4";"0.0";NA;NA;NA
+"18-01-2017";"-4.8";"0.1";"6";"0.0";NA;NA;NA
+"19-01-2017";"-3.9";"2.1";"7";"0.0";NA;NA;NA
+"20-01-2017";"-3.4";"3.8";"8";"0.0";NA;NA;NA
+"21-01-2017";"-5.0";"2.4";"8";"0.0";NA;NA;NA
+"23-01-2017";"-3.6";"1.9";"0";"0.0";NA;NA;NA
+"24-01-2017";"-1.2";"1.6";"0";"0.0";"   Bancs de brouillard     ";"   Bancs de brouillard     ";"   Bancs de brouillard   "
+"25-01-2017";"-1.2";"0.1";"0";"0.0";NA;NA;NA
+"26-01-2017";"-4.5";"1.9";"7";"0.0";NA;NA;NA
+"27-01-2017";"-4.2";"6.4";"2";"0.0";NA;NA;"   Très nuageux   "
+"28-01-2017";"4.0";"9.6";"1";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"30-01-2017";"5.1";"8.5";"0";"0.8";NA;"   Bruine     ";"   Très nuageux   "
+"31-01-2017";"3.2";"6.1";"0";"0.0";NA;NA;NA
+"01-02-2017";"3.3";"9.1";"0";"2.0";"   Très nuageux     ";"   Très nuageux     ";"   Bruine   "
+"02-02-2017";"6.7";"13.1";"2";"0.2";"   Très nuageux      ";NA;"   Bruine   "
+"03-02-2017";"7.5";"11.0";"6";"0.4";NA;"";NA
+"04-02-2017";"3.7";"6.1";"0";"7.1";"   Très nuageux     ";"   Bruine     ";"   Bruine   "
+"06-02-2017";"2.9";"8.3";"3";"2.0";NA;"   Très nuageux     ";"   Eclaircies   "
+"07-02-2017";"4.3";"6.9";"0";"1.0";"   Bruine     ";"";NA
+"08-02-2017";"2.7";"4.9";"0";"0.2";NA;NA;NA
+"09-02-2017";"1.0";"1.9";"0";"0.0";NA;NA;NA
+"10-02-2017";"-2.3";"-0.2";"0";"0.0";NA;NA;NA
+"11-02-2017";"-0.5";"1.2";"0";"0.0";NA;NA;"   Bruine   "
+"13-02-2017";"1.2";"9.6";"8";"0.0";NA;NA;NA
+"14-02-2017";"0.2";"14.5";"8";"0.0";NA;NA;NA
+"15-02-2017";"3.6";"15.0";"7";"0.0";NA;NA;NA
+"16-02-2017";"1.3";"10.0";"2";"0.0";NA;"   Très nuageux     ";"   Très nuageux   "
+"17-02-2017";"4.8";"11.6";"2";"0.2";NA;"   Très nuageux     ";"   Très nuageux   "
+"18-02-2017";"1.5";"9.8";"3";"0.0";"   Bancs de brouillard      ";NA;"   Très nuageux   "
+"20-02-2017";"7.6";"11.1";"0";"1.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"21-02-2017";"9.2";"11.2";"0";"4.8";"   Bruine     ";"   Très nuageux     ";"   Très nuageux   "
+"22-02-2017";"9.6";"10.8";"0";"0.0";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"23-02-2017";"8.5";"11.6";"1";"0.2";"   Très nuageux     ";"   Très nuageux     ";"   Très nuageux   "
+"24-02-2017";"3.8";"7.7";"1";"1.6";"   Bruine     ";"";NA
+"25-02-2017";"0.3";"10.1";"2";"0.0";"   Très nuageux     ";NA;NA
+"27-02-2017";"5.8";"10.4";"0";"14.1";"   Très nuageux     ";"   Bruine     ";"   Bruine   "
+"28-02-2017";"2.8";"7.6";"2";"7.2";"   Eclaircies     ";"   Très nuageux     ";"   Eclaircies   "
+"01-03-2017";"3.9";"9.4";"1";"3.6";"   Eclaircies     ";"   Bruine     ";"   Bruine   "
